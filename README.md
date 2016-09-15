@@ -14,7 +14,7 @@ The lists are ordered by the most recent to the oldest ones.
 
 * 26 Sep 2016: [Implementing Health Checks with Docker Swarm]() at [Docker Barcelona](https://www.meetup.com/docker-barcelona-spain/events/233991943/)
 * 3 Jun 2016 [Docker Workshop](https://github.com/harbur/docker-workshop) [Docker Barcelona](https://www.meetup.com/docker-barcelona-spain/events/230992018/)
-* [Docker in Production or how to serve 23M daily requests](https://speakerdeck.com/spiddy/docker-in-production) at [Docker Barcelona](https://www.meetup.com/docker-barcelona-spain/events/223798586/) (Barcelona Activa)
+* 21 Jul 2015 [Docker in Production or how to serve 23M daily requests](https://speakerdeck.com/spiddy/docker-in-production) at [Docker Barcelona](https://www.meetup.com/docker-barcelona-spain/events/223798586/) (Barcelona Activa)
 * 15 Apr 2015: [Docker Workshop](http://blog.harbur.io/docker-workshop/) at [Docker Barcelona](https://www.meetup.com/docker-barcelona-spain/events/220605483/) (Itnig)
 * 17 Feb 2015: [The Quest for the Holy Grail of Continuous Delivery](https://speakerdeck.com/spiddy/the-quest-for-the-holy-grail-of-continuous-delivery) at [Docker Barcelona](https://www.meetup.com/docker-barcelona-spain/events/220345813/) (Social Point)
 * 18 Dec 2014: [Introduction to Docker](http://www.slideshare.net/spiddy/docker-intro-32958279) at [Docker Barcelona](https://www.meetup.com/docker-barcelona-spain/events/218963528/) (Itnig)
