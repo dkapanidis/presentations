@@ -35,6 +35,15 @@ The lists are ordered by the most recent to the oldest ones.
 
 **[Introduction to Docker](http://www.slideshare.net/spiddy/docker-intro-32958279)**: This is an entry-level presentation about what is Docker and the basic concepts around container technology.
 
+## Attended
+
+Here is a list of events I participated as attendee.
+
+### Courses
+
+* 28 Oct 2016: [CPB100: Google Cloud Platform Big Data & Machine Learning Fundamentals](https://cloud.google.com/training/courses/cpb100) by [Extrema-Sistemas](http://extrema-sistemas.com/es/)
+* 13 May 2016: [CP306A: Google Container Engine and Kubernetes](https://cloud.google.com/training/courses/cp306a) by [ROI Training](http://www.roitraining.com/) ([Certificate of Completion](https://www.credential.net/10201062))
+
 ## Bio
 
 Dimitris is Docker Captain, software engineer, SQA evangelist, organizer of the Docker Barcelona Meetup and founder of Harbur. He has been for a decade the ultimate responsible of the software quality of e-voting solutions with governments across all continents, a working environment that requires pristine-quality. Now in Harbur he helps enterprise tech companies modernize their development processes and infrastructures in order to embrace containers as first-class citizens on their ecosystem.
