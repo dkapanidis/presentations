@@ -46,7 +46,7 @@ Here is a list of events I participated as attendee.
 
 ## Bio
 
-Dimitris is Docker Captain, software engineer, SQA evangelist, organizer of the Docker Barcelona Meetup and founder of Harbur. He has been for a decade the ultimate responsible of the software quality of e-voting solutions with governments across all continents, a working environment that requires pristine-quality. Now in Harbur he helps enterprise tech companies modernize their development processes and infrastructures in order to embrace containers as first-class citizens on their ecosystem.
+Dimitris is Docker Captain, software engineer, SQA evangelist, organizer of the Docker Barcelona Meetup, Kubernetes Barcelona Meetup and founder of Harbur. He has been for a decade the ultimate responsible of the software quality of e-voting solutions with governments across all continents, a working environment that requires pristine-quality. Now in Harbur he helps enterprise tech companies modernize their development processes and infrastructures in order to embrace containers as first-class citizens on their ecosystem.
 
 He loves automation, Continuous Delivery, and anything that boost the development-lifecycle and make developer's life easier. He also loves noodles.
 
