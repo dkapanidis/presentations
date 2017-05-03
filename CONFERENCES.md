@@ -3,7 +3,7 @@
 This is a curated list of Container-related Conferences
 
 Region    | Conference | Date | Location
----       | ---        | ---  | ---
+---       | ---        | ---: | ---
 Europe    | [CloudNativeCon + KubeCon](https://events.linuxfoundation.org/events/cloudnativecon-and-kubecon-europe) | Mar 29-30, 2017 | Berlin, Germany
 Europe    | [DotScale](https://www.dotscale.io/) | Apr 24, 2017 | Paris, France
 Europe    | [Paris Container Day](http://paris-container-day.fr/) | Jun 13, 2017 | Paris, France
