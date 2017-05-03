@@ -6,7 +6,7 @@ Region    | Conference | Date | Location
 ---       | ---        | ---  | ---
 Europe    | [CloudNativeCon + KubeCon](https://events.linuxfoundation.org/events/cloudnativecon-and-kubecon-europe) | Mar 29-30, 2017 | Berlin, Germany
 Europe    | [DotScale](https://www.dotscale.io/) | Apr 24, 2017 | Paris, France
-Europe    | [Paris Container Day](http://paris-container-day.fr/) | June 13th | Paris, France
+Europe    | [Paris Container Day](http://paris-container-day.fr/) | Jun 13 | Paris, France
 Europe    | [ContainerDays](https://containerdays.io/) | Jun 20-21, 2017 | Hamburg, Germany
 Europe    | [ShipitCon](http://shipitcon.com/) | Aug 25, 2017 | Dublin, Irland
 Europe    | [ContainerSched](https://skillsmatter.com/conferences/8229-containersched-2017-the-conference-on-devops-cloud-containers-and-schedulers) | Sep 28-29, 2017 | London, UK
