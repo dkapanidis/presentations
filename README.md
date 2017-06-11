@@ -13,7 +13,7 @@ The lists are ordered by the most recent to the oldest ones.
 
 ### Meetups
 
-* 26 Sep 2016: [Implementing Health Checks with Docker Swarm]() at [Docker Barcelona](https://www.meetup.com/docker-barcelona-spain/events/233991943/)
+* 26 Sep 2016: [Implementing Health Checks with Docker Swarm](https://speakerdeck.com/spiddy/zero-downtimes-with-faulty-solutions) at [Docker Barcelona](https://www.meetup.com/docker-barcelona-spain/events/233991943/)
 * 3 Jun 2016: [Docker Workshop](https://github.com/harbur/docker-workshop) [Docker Barcelona](https://www.meetup.com/docker-barcelona-spain/events/230992018/)
 * 21 Jul 2015: [Docker in Production or how to serve 23M daily requests](https://speakerdeck.com/spiddy/docker-in-production) at [Docker Barcelona](https://www.meetup.com/docker-barcelona-spain/events/223798586/) (Barcelona Activa)
 * 15 Apr 2015: [Docker Workshop](http://blog.harbur.io/docker-workshop/) at [Docker Barcelona](https://www.meetup.com/docker-barcelona-spain/events/220605483/) (Itnig)
@@ -24,7 +24,7 @@ The lists are ordered by the most recent to the oldest ones.
 
 ## Abstracts
 
-**[Zero Downtimes with Faulty Solutions - Health Checks for Microservices to the Rescue]()**: In this presentation we'll discuss what is a health check, why are they crucial when handling multiple docker containers of a service and how to use them with the new Docker Engine v1.13 using Docker Swarm. We'll use as an example a faulty solution with and without health checks and see the benefits they provide.
+**[Zero Downtimes with Faulty Solutions - Health Checks for Microservices to the Rescue](https://speakerdeck.com/spiddy/zero-downtimes-with-faulty-solutions)**: In this presentation we'll discuss what is a health check, why are they crucial when handling multiple docker containers of a service and how to use them with the new Docker Engine v1.13 using Docker Swarm. We'll use as an example a faulty solution with and without health checks and see the benefits they provide.
 
 **[Netflix OSS and Kubernetes - Building a Microservice based Cloud platform](https://speakerdeck.com/spiddy/netflix-oss-and-kubernetes-building-a-microservice-based-cloud-platform)**: There is a need these days to break monolithic solutions to distributed microservices. This need arise along with the need to restructure organizations from separate silos to DevOps. Here we'll talk how to enable such migration using Spring Cloud, Spring Boot, Netflix OSS & Kubernetes and create a Cloud Platflorm where Microservices can be deployed easily using Docker containers. We'll discuss about the benefits of using NetflixOSS Eureka as Service Discovery, either on-premise or on-cloud environments and how zero downtime deployments can be easily achieved using rolling updates of Kubernetes. Lastly we'll focus on resiliency using health checks, auto healing, auto scaling and multiple data-centers on cloud providers.
 
