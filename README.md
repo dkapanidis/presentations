@@ -6,7 +6,8 @@ The lists are ordered by the most recent to the oldest ones.
 
 ### Conferences
 
-* 18 Jun 2016: [Netflix OSS and Kubernetes - Building a Microservice based Cloud platform](https://speakerdeck.com/spiddy/netflix-oss-and-kubernetes-building-a-microservice-based-cloud-platform) at [JBCNConf](http://www.jbcnconf.com/2016/infoSpeaker.html?ref=dkapanidis)
+* 15 May 2017: [Zero Downtimes with Faulty Solutions - Health Checks for Microservices to the Rescue]() at [RigaDevDays](https://rigadevdays.lv/speakers/44/) [YouTube](https://www.youtube.com/watch?v=7FfWaZ2RyZI)
+* 18 Jun 2016: [Netflix OSS and Kubernetes - Building a Microservice based Cloud platform](https://speakerdeck.com/spiddy/netflix-oss-and-kubernetes-building-a-microservice-based-cloud-platform) at [JBCNConf](http://www.jbcnconf.com/2016/infoSpeaker.html?ref=dkapanidis) [YouTube](https://www.youtube.com/watch?v=tcNf8Dk6VWg)
 * 16 Oct 2014: [The Quest for the Holy Grail of Continuous Delivery](https://speakerdeck.com/spiddy/the-quest-for-the-holy-grail-of-continuous-delivery) at [Software Craftsmanship BCN](http://scbcn.github.io/)
 * 4 Oct 2014: [Continuous Delivery of Node.js Apps with Docker from Scratch to Production](https://speakerdeck.com/spiddy/the-quest-for-the-holy-grail-of-continuous-delivery) at [We node!](http://wenode.barcelonajs.org/speaker/dimitris-kapanidis.html)
 
@@ -23,7 +24,7 @@ The lists are ordered by the most recent to the oldest ones.
 
 ## Abstracts
 
-**[Implementing Health Checks with Docker Swarm]()**: In this presentation we'll discuss what is a health check, why are they crucial when handling multiple docker containers of a service and how to use them with the new Docker Engine v1.12 using Docker Swarm. We'll use as an example a faulty solution with and without health checks and see the benefits they provide.
+**[Zero Downtimes with Faulty Solutions - Health Checks for Microservices to the Rescue]()**: In this presentation we'll discuss what is a health check, why are they crucial when handling multiple docker containers of a service and how to use them with the new Docker Engine v1.13 using Docker Swarm. We'll use as an example a faulty solution with and without health checks and see the benefits they provide.
 
 **[Netflix OSS and Kubernetes - Building a Microservice based Cloud platform](https://speakerdeck.com/spiddy/netflix-oss-and-kubernetes-building-a-microservice-based-cloud-platform)**: There is a need these days to break monolithic solutions to distributed microservices. This need arise along with the need to restructure organizations from separate silos to DevOps. Here we'll talk how to enable such migration using Spring Cloud, Spring Boot, Netflix OSS & Kubernetes and create a Cloud Platflorm where Microservices can be deployed easily using Docker containers. We'll discuss about the benefits of using NetflixOSS Eureka as Service Discovery, either on-premise or on-cloud environments and how zero downtime deployments can be easily achieved using rolling updates of Kubernetes. Lastly we'll focus on resiliency using health checks, auto healing, auto scaling and multiple data-centers on cloud providers.
 
