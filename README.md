@@ -4,15 +4,16 @@ Here is a list of my presentations, their abstracts, slides and where they where
 
 The lists are ordered by the most recent to the oldest ones.
 
-### Conferences
+## Conferences
 
 * 15 May 2017: [Zero Downtimes with Faulty Solutions - Health Checks for Microservices to the Rescue]() at [RigaDevDays](https://rigadevdays.lv/speakers/44/) [YouTube](https://www.youtube.com/watch?v=7FfWaZ2RyZI)
 * 18 Jun 2016: [Netflix OSS and Kubernetes - Building a Microservice based Cloud platform](https://speakerdeck.com/spiddy/netflix-oss-and-kubernetes-building-a-microservice-based-cloud-platform) at [JBCNConf](http://www.jbcnconf.com/2016/infoSpeaker.html?ref=dkapanidis) [YouTube](https://www.youtube.com/watch?v=tcNf8Dk6VWg)
 * 16 Oct 2014: [The Quest for the Holy Grail of Continuous Delivery](https://speakerdeck.com/spiddy/the-quest-for-the-holy-grail-of-continuous-delivery) at [Software Craftsmanship BCN](http://scbcn.github.io/)
 * 4 Oct 2014: [Continuous Delivery of Node.js Apps with Docker from Scratch to Production](https://speakerdeck.com/spiddy/the-quest-for-the-holy-grail-of-continuous-delivery) at [We node!](http://wenode.barcelonajs.org/speaker/dimitris-kapanidis.html)
 
-### Meetups
+## Meetups
 
+* 21 May 2018: [Kubernetes Autoscaling with Custom Metrics]() at [Kubernetes Barcelona](https://www.meetup.com/Kubernetes-Barcelona/events/247733129/)
 * 26 Sep 2016: [Implementing Health Checks with Docker Swarm](https://speakerdeck.com/spiddy/zero-downtimes-with-faulty-solutions) at [Docker Barcelona](https://www.meetup.com/docker-barcelona-spain/events/233991943/)
 * 3 Jun 2016: [Docker Workshop](https://github.com/harbur/docker-workshop) [Docker Barcelona](https://www.meetup.com/docker-barcelona-spain/events/230992018/)
 * 21 Jul 2015: [Docker in Production or how to serve 23M daily requests](https://speakerdeck.com/spiddy/docker-in-production) at [Docker Barcelona](https://www.meetup.com/docker-barcelona-spain/events/223798586/) (Barcelona Activa)
@@ -40,7 +41,7 @@ The lists are ordered by the most recent to the oldest ones.
 
 Here is a list of events I participated as attendee.
 
-### Courses
+## Courses
 
 * 28 Oct 2016: [CPB100: Google Cloud Platform Big Data & Machine Learning Fundamentals](https://cloud.google.com/training/courses/cpb100) by [Extrema-Sistemas](http://extrema-sistemas.com/es/)
 * 13 May 2016: [CP306A: Google Container Engine and Kubernetes](https://cloud.google.com/training/courses/cp306a) by [ROI Training](http://www.roitraining.com/) ([Certificate of Completion](https://www.credential.net/10201062))
