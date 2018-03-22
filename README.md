@@ -15,9 +15,9 @@ The lists are ordered by the most recent to the oldest ones.
 
 ## Meetups
 
-| Date         | Presentation                                                                                                                              | Meetup                                                                                | Location         | Code |
-| ------------ | ----------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | ---------------- | ---- |
-| 21 May 2018: | [Kubernetes Autoscaling using Custom Metrics](https://spiddy.github.io/presentations/kubernetes-custom-metrics)                           | [Kubernetes Barcelona](https://www.meetup.com/Kubernetes-Barcelona/events/247733129/) | 3scale           | 
+| Date         | Presentation                                                                                                                              | Meetup                                                                                | Location         |
+| ------------ | ----------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | ---------------- |
+| 21 May 2018: | [Kubernetes Autoscaling using Custom Metrics](https://spiddy.github.io/presentations/kubernetes-custom-metrics)                           | [Kubernetes Barcelona](https://www.meetup.com/Kubernetes-Barcelona/events/247733129/) | 3scale           |
 | 26 Sep 2016: | [Implementing Health Checks with Docker Swarm](https://speakerdeck.com/spiddy/zero-downtimes-with-faulty-solutions)                       | [Docker Barcelona](https://www.meetup.com/docker-barcelona-spain/events/233991943/)   | Everis           |
 | 3 Jun 2016:  | [Docker Workshop](https://github.com/harbur/docker-workshop)                                                                              | [Docker Barcelona](https://www.meetup.com/docker-barcelona-spain/events/230992018/)   | Everis           |
 | 21 Jul 2015: | [Docker in Production or how to serve 23M daily requests](https://speakerdeck.com/spiddy/docker-in-production)                            | [Docker Barcelona](https://www.meetup.com/docker-barcelona-spain/events/223798586/)   | Barcelona Activa |
