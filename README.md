@@ -18,16 +18,16 @@ The lists are ordered by the most recent to the oldest ones.
 
 | Date     | Presentation                                                                       | Meetup                    | Location         |
 | -------- | ---------------------------------------------------------------------------------- | ------------------------- | ---------------- |
-| 19/07/18 | [Kubernetes in Startups vs Enterprise: Using Custom Resources to extend workflow]  | [Kubernetes BCN Jul 2018] | CaixaForum       |
-| 21/05/18 | [Kubernetes Autoscaling using Custom Metrics]                                      | [Kubernetes BCN Mar 2018] | 3scale           |
-| 26/09/16 | [Implementing Health Checks with Docker Swarm]                                     | [Docker BCN Sep 2016]     | Everis           |
-| 03/06/16 | [Docker Workshop]                                                                  | [Docker BCN Jun 2016]     | Everis           |
-| 21/07/15 | [Docker in Production or how to serve 23M daily requests]                          | [Docker BCN Jul 2015]     | Barcelona Activa |
-| 15/04/15 | [Docker Workshop]                                                                  | [Docker BCN Abr 2015]     | Itnig            |
-| 17/02/15 | [The Quest for the Holy Grail of Continuous Delivery]                              | [Docker BCN Feb 2015]     | Social Point     |
-| 18/12/14 | [Introduction to Docker]                                                           | [Docker BCN Dec 2014]     | Itnig            |
-| 24/06/14 | [Docker Workshop]                                                                  | [Docker BCN Jul 2014]     | Itnig            |
-| 26/03/14 | [Introduction to Docker]                                                           | [Docker BCN Mar 2014]     | 3scale           |
+| 19/07/18 | [Kubernetes in Startups vs Enterprise: Using Custom Resources to extend workflow]  | [Kubernetes BCN Jul.18] | CaixaForum       |
+| 21/05/18 | [Kubernetes Autoscaling using Custom Metrics]                                      | [Kubernetes BCN Mar.18] | 3scale           |
+| 26/09/16 | [Implementing Health Checks with Docker Swarm]                                     | [Docker BCN Sep.16]     | Everis           |
+| 03/06/16 | [Docker Workshop]                                                                  | [Docker BCN Jun.16]     | Everis           |
+| 21/07/15 | [Docker in Production or how to serve 23M daily requests]                          | [Docker BCN Jul.15]     | Barcelona Activa |
+| 15/04/15 | [Docker Workshop]                                                                  | [Docker BCN Abr.15]     | Itnig            |
+| 17/02/15 | [The Quest for the Holy Grail of Continuous Delivery]                              | [Docker BCN Feb.15]     | Social Point     |
+| 18/12/14 | [Introduction to Docker]                                                           | [Docker BCN Dec.14]     | Itnig            |
+| 24/06/14 | [Docker Workshop]                                                                  | [Docker BCN Jul.14]     | Itnig            |
+| 26/03/14 | [Introduction to Docker]                                                           | [Docker BCN Mar.14]     | 3scale           |
 
 
 [Netflix OSS and Kubernetes - Building a Microservice based Cloud platform]: https://speakerdeck.com/spiddy/netflix-oss-and-kubernetes-building-a-microservice-based-cloud-platform
@@ -46,16 +46,16 @@ The lists are ordered by the most recent to the oldest ones.
 [Software Craftsmanship BCN 2014]: http://scbcn.github.io/
 [We node! 2014]: http://wenode.barcelonajs.org/speaker/dimitris-kapanidis.html
 
-[Kubernetes BCN Jul 2018]: https://www.meetup.com/Kubernetes-Barcelona/events/252665047/
-[Kubernetes BCN Mar 2018]: https://www.meetup.com/Kubernetes-Barcelona/events/247733129/
-[Docker BCN Sep 2016]: https://www.meetup.com/docker-barcelona-spain/events/233991943/
-[Docker BCN Jun 2016]: https://www.meetup.com/docker-barcelona-spain/events/230992018/
-[Docker BCN Jul 2015]: https://www.meetup.com/docker-barcelona-spain/events/223798586/
-[Docker BCN Abr 2015]: https://www.meetup.com/docker-barcelona-spain/events/220605483/
-[Docker BCN Feb 2015]: https://www.meetup.com/docker-barcelona-spain/events/220345813/
-[Docker BCN Dec 2014]: https://www.meetup.com/docker-barcelona-spain/events/218963528/
-[Docker BCN Mar 2014]: https://www.meetup.com/docker-barcelona-spain/events/172986442/
-[Docker BCN Jul 2014]: https://www.meetup.com/docker-barcelona-spain/events/193336922/
+[Kubernetes BCN Jul.18]: https://www.meetup.com/Kubernetes-Barcelona/events/252665047/
+[Kubernetes BCN Mar.18]: https://www.meetup.com/Kubernetes-Barcelona/events/247733129/
+[Docker BCN Sep.16]: https://www.meetup.com/docker-barcelona-spain/events/233991943/
+[Docker BCN Jun.16]: https://www.meetup.com/docker-barcelona-spain/events/230992018/
+[Docker BCN Jul.15]: https://www.meetup.com/docker-barcelona-spain/events/223798586/
+[Docker BCN Abr.15]: https://www.meetup.com/docker-barcelona-spain/events/220605483/
+[Docker BCN Feb.15]: https://www.meetup.com/docker-barcelona-spain/events/220345813/
+[Docker BCN Dec.14]: https://www.meetup.com/docker-barcelona-spain/events/218963528/
+[Docker BCN Mar.14]: https://www.meetup.com/docker-barcelona-spain/events/172986442/
+[Docker BCN Jul.14]: https://www.meetup.com/docker-barcelona-spain/events/193336922/
 
 ## Abstracts
 
