@@ -32,7 +32,7 @@ The lists are ordered by the most recent to the oldest ones.
 
 [Netflix OSS and Kubernetes - Building a Microservice based Cloud platform]: https://speakerdeck.com/spiddy/netflix-oss-and-kubernetes-building-a-microservice-based-cloud-platform
 [Continuous Delivery of Node.js Apps with Docker from Scratch to Production]: https://speakerdeck.com/spiddy/the-quest-for-the-holy-grail-of-continuous-delivery
-[Kubernetes in Startups vs Enterprise: Using Custom Resources to extend workflow]: https://spiddy.github.io/presentations/kubernetes-custom-metrics
+[Kubernetes in Startups vs Enterprise: Using Custom Resources to extend workflow]: https://speakerdeck.com/spiddy/kubernetes-in-startups-vs-enterprise-using-custom-resources-to-extend-workflow
 [Kubernetes Autoscaling using Custom Metrics]: https://spiddy.github.io/presentations/kubernetes-custom-metrics
 [Implementing Health Checks with Docker Swarm]: https://speakerdeck.com/spiddy/zero-downtimes-with-faulty-solutions
 [Docker Workshop]: https://github.com/harbur/docker-workshop
