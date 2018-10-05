@@ -18,7 +18,7 @@ The lists are ordered by the most recent to the oldest ones.
 
 | Date     | Presentation                                                                       | Meetup                          | Location         |
 | -------- | ---------------------------------------------------------------------------------- | ------------------------------- | ---------------- |
-| 21/05/18 | [Kubernetes in Startups vs Enterprise: Using Custom Resources to extend workflow]  | [Kubernetes Barcelona Jul 2018] | 3scale           |
+| 19/07/18 | [Kubernetes in Startups vs Enterprise: Using Custom Resources to extend workflow]  | [Kubernetes Barcelona Jul 2018] | CaixaForum       |
 | 21/05/18 | [Kubernetes Autoscaling using Custom Metrics]                                      | [Kubernetes Barcelona Mar 2018] | 3scale           |
 | 26/09/16 | [Implementing Health Checks with Docker Swarm]                                     | [Docker Barcelona Sep 2016]     | Everis           |
 | 03/06/16 | [Docker Workshop]                                                                  | [Docker Barcelona Jun 2016]     | Everis           |
