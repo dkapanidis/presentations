@@ -41,7 +41,7 @@ The lists are ordered by the most recent to the oldest ones.
 [Introduction to Docker]: http://www.slideshare.net/spiddy/docker-intro-32958279
 
 [Software Crafters Barcelona 2018]: http://scbcn.github.io/
-[RigaDevDays 2016](https://rigadevdays.lv/speakers/44/)
+[RigaDevDays 2016]: https://rigadevdays.lv/speakers/44/
 [JBCNConf 2014]: http://www.jbcnconf.com/2016/infoSpeaker.html?ref=dkapanidis
 [Software Craftsmanship BCN 2014]: http://scbcn.github.io/
 [We node! 2014]: http://wenode.barcelonajs.org/speaker/dimitris-kapanidis.html
