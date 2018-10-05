@@ -6,26 +6,56 @@ The lists are ordered by the most recent to the oldest ones.
 
 ## Conferences
 
-| Date     | Presentation                                                                                                                                                                        | Conference                                                                | Links                                                  |
-| -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- | ------------------------------------------------------ |
-| 15/05/17 | [Zero Downtimes with Faulty Solutions - Health Checks for Microservies to the Rescue]()                                                                                             | [RigaDevDays](https://rigadevdays.lv/speakers/44/)                        | [YouTube](https://www.youtube.com/watch?v=7FfWZ2RyZI)  |
-| 18/06/16 | [Netflix OSS and Kubernetes - Building a Microservice based Cloud platform](https://speakerdeck.com/spiddy/netflix-oss-and-kubernetes-building-a-microservice-based-cloud-platform) | [JBCNConf](http://www.jbcnconf.com/2016/infoSpeaker.html?ref=dkapanidis)  | [YouTube](https://www.youtube.com/watch?v=tcNf8Dk6VWg) |
-| 16/10/14 | [The Quest for the Holy Grail of Continuous Delivery](https://speakerdeck.com/spiddy/the-quest-for-the-holy-grail-of-continuous-delivery)                                           | [Software Craftsmanship BCN](http://scbcn.github.io/)                     |                                                        |
-| 04/10/14 | [Continuous Delivery of Node.js Apps with Docker from Scratch to Production](https://speakerdeck.com/spiddy/the-quest-for-the-holy-grail-of-continuous-delivery)                    | [We node!](http://wenode.barcelonajs.org/speaker/dimitris-kapanidis.html) |                                                        |  |
+| Date     | Presentation                                                                            | Conference                         | Links                                                  |
+| -------- | --------------------------------------------------------------------------------------- | ---------------------------------  | ------------------------------------------------------ |
+| 30/09/18 | [Kubernetes in Startups vs Enterprise: Using Custom Resources to extend workflow]       | [Software Crafters Barcelona 2018] | [YouTube](https://www.youtube.com/watch?v=7FfWZ2RyZI)  |
+| 15/05/17 | [Zero Downtimes with Faulty Solutions - Health Checks for Microservies to the Rescue]() | [RigaDevDays 2016]                 | [YouTube](https://www.youtube.com/watch?v=7FfWZ2RyZI)  |
+| 18/06/16 | [Netflix OSS and Kubernetes - Building a Microservice based Cloud platform]             | [JBCNConf 2014]                    | [YouTube](https://www.youtube.com/watch?v=tcNf8Dk6VWg) |
+| 16/10/14 | [The Quest for the Holy Grail of Continuous Delivery]                                   | [Software Craftsmanship BCN 2014]  |                                                        |
+| 04/10/14 | [Continuous Delivery of Node.js Apps with Docker from Scratch to Production]            | [We node! 2014]                    |                                                        |  |
 
 ## Meetups
 
-| Date     | Presentation                                                                                                                              | Meetup                                                                                | Location         |
-| -------- | ----------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | ---------------- |
-| 21/05/18 | [Kubernetes Autoscaling using Custom Metrics](https://spiddy.github.io/presentations/kubernetes-custom-metrics)                           | [Kubernetes Barcelona](https://www.meetup.com/Kubernetes-Barcelona/events/247733129/) | 3scale           |
-| 26/09/16 | [Implementing Health Checks with Docker Swarm](https://speakerdeck.com/spiddy/zero-downtimes-with-faulty-solutions)                       | [Docker Barcelona](https://www.meetup.com/docker-barcelona-spain/events/233991943/)   | Everis           |
-| 03/06/16 | [Docker Workshop](https://github.com/harbur/docker-workshop)                                                                              | [Docker Barcelona](https://www.meetup.com/docker-barcelona-spain/events/230992018/)   | Everis           |
-| 21/07/15 | [Docker in Production or how to serve 23M daily requests](https://speakerdeck.com/spiddy/docker-in-production)                            | [Docker Barcelona](https://www.meetup.com/docker-barcelona-spain/events/223798586/)   | Barcelona Activa |
-| 15/04/15 | [Docker Workshop](http://blog.harbur.io/docker-workshop/)                                                                                 | [Docker Barcelona](https://www.meetup.com/docker-barcelona-spain/events/220605483/)   | Itnig            |
-| 17/02/15 | [The Quest for the Holy Grail of Continuous Delivery](https://speakerdeck.com/spiddy/the-quest-for-the-holy-grail-of-continuous-delivery) | [Docker Barcelona](https://www.meetup.com/docker-barcelona-spain/events/220345813/)   | Social Point     |
-| 18/12/14 | [Introduction to Docker](http://www.slideshare.net/spiddy/docker-intro-32958279)                                                          | [Docker Barcelona](https://www.meetup.com/docker-barcelona-spain/events/218963528/)   | Itnig            |
-| 24/06/14 | [Docker Workshop](http://blog.harbur.io/docker-workshop/)                                                                                 | [Docker Barcelona](https://www.meetup.com/docker-barcelona-spain/events/193336922/)   | Itnig            |
-| 26/03/14 | [Introduction to Docker](http://www.slideshare.net/spiddy/docker-intro-32958279)                                                          | [Docker Barcelona](https://www.meetup.com/docker-barcelona-spain/events/172986442/)   | 3scale           |
+| Date     | Presentation                                                                       | Meetup                          | Location         |
+| -------- | ---------------------------------------------------------------------------------- | ------------------------------- | ---------------- |
+| 21/05/18 | [Kubernetes in Startups vs Enterprise: Using Custom Resources to extend workflow]  | [Kubernetes Barcelona Jul 2018] | 3scale           |
+| 21/05/18 | [Kubernetes Autoscaling using Custom Metrics]                                      | [Kubernetes Barcelona Mar 2018] | 3scale           |
+| 26/09/16 | [Implementing Health Checks with Docker Swarm]                                     | [Docker Barcelona Sep 2016]     | Everis           |
+| 03/06/16 | [Docker Workshop]                                                                  | [Docker Barcelona Jun 2016]     | Everis           |
+| 21/07/15 | [Docker in Production or how to serve 23M daily requests]                          | [Docker Barcelona Jul 2015]     | Barcelona Activa |
+| 15/04/15 | [Docker Workshop]                                                                  | [Docker Barcelona Abr 2015]     | Itnig            |
+| 17/02/15 | [The Quest for the Holy Grail of Continuous Delivery]                              | [Docker Barcelona Feb 2015]     | Social Point     |
+| 18/12/14 | [Introduction to Docker]                                                           | [Docker Barcelona Dec 2014]     | Itnig            |
+| 24/06/14 | [Docker Workshop]                                                                  | [Docker Barcelona Jul 2014]     | Itnig            |
+| 26/03/14 | [Introduction to Docker]                                                           | [Docker Barcelona Mar 2014]     | 3scale           |
+
+
+[Netflix OSS and Kubernetes - Building a Microservice based Cloud platform]: https://speakerdeck.com/spiddy/netflix-oss-and-kubernetes-building-a-microservice-based-cloud-platform
+[Continuous Delivery of Node.js Apps with Docker from Scratch to Production]: https://speakerdeck.com/spiddy/the-quest-for-the-holy-grail-of-continuous-delivery
+[Kubernetes in Startups vs Enterprise: Using Custom Resources to extend workflow]: https://spiddy.github.io/presentations/kubernetes-custom-metrics
+[Kubernetes Autoscaling using Custom Metrics]: https://spiddy.github.io/presentations/kubernetes-custom-metrics
+[Implementing Health Checks with Docker Swarm]: https://speakerdeck.com/spiddy/zero-downtimes-with-faulty-solutions
+[Docker Workshop]: https://github.com/harbur/docker-workshop
+[Docker in Production or how to serve 23M daily requests]: https://speakerdeck.com/spiddy/docker-in-production
+[The Quest for the Holy Grail of Continuous Delivery]: https://speakerdeck.com/spiddy/the-quest-for-the-holy-grail-of-continuous-delivery
+[Introduction to Docker]: http://www.slideshare.net/spiddy/docker-intro-32958279
+
+[Software Crafters Barcelona 2018]: http://scbcn.github.io/
+[RigaDevDays 2016](https://rigadevdays.lv/speakers/44/)
+[JBCNConf 2014]: http://www.jbcnconf.com/2016/infoSpeaker.html?ref=dkapanidis
+[Software Craftsmanship BCN 2014]: http://scbcn.github.io/
+[We node! 2014]: http://wenode.barcelonajs.org/speaker/dimitris-kapanidis.html
+
+[Kubernetes Barcelona Jul 2018]: https://www.meetup.com/Kubernetes-Barcelona/events/252665047/
+[Kubernetes Barcelona Mar 2018]: https://www.meetup.com/Kubernetes-Barcelona/events/247733129/
+[Docker Barcelona Sep 2016]: https://www.meetup.com/docker-barcelona-spain/events/233991943/
+[Docker Barcelona Jun 2016]: https://www.meetup.com/docker-barcelona-spain/events/230992018/
+[Docker Barcelona Jul 2015]: https://www.meetup.com/docker-barcelona-spain/events/223798586/
+[Docker Barcelona Abr 2015]: https://www.meetup.com/docker-barcelona-spain/events/220605483/
+[Docker Barcelona Feb 2015]: https://www.meetup.com/docker-barcelona-spain/events/220345813/
+[Docker Barcelona Dec 2014]: https://www.meetup.com/docker-barcelona-spain/events/218963528/
+[Docker Barcelona Mar 2014]: https://www.meetup.com/docker-barcelona-spain/events/172986442/
+[Docker Barcelona Jul 2014]: https://www.meetup.com/docker-barcelona-spain/events/193336922/
 
 ## Abstracts
 
