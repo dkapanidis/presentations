@@ -86,9 +86,9 @@ Here is a list of events I participated as attendee.
 
 ## Bio
 
-Dimitris is Docker Captain, Google Developer Expert, software engineer, SQA evangelist, organizer of the Docker Barcelona Meetup, Kubernetes Barcelona Meetup and founder of Harbur. He has been for a decade the ultimate responsible of the software quality of e-voting solutions with governments across all continents, a working environment that requires pristine-quality. Now in Harbur he helps enterprise tech companies modernize their development processes and infrastructures in order to embrace containers as first-class citizens on their ecosystem.
+Dimitris is Senior Architect at Harbur Cloud Solutions, Docker Captain y Google Developer Expert. His main focus is to help companies to modernize their infrastructure and internal culture in order to accelerate their time-to-market. In his past he was responsible for the quality of e-voting solutions for governments across all continents.
 
-He loves automation, Continuous Delivery, and anything that boost the development-lifecycle and make developer's life easier. He also loves noodles.
+Dimitris es Senior Architect en Harbur Cloud Solutions., Docker Captain y Google Developer Expert. Su principal enfoque es ayudar empresas a modernizar su infraestructura y la cultura interna para acelerar el time-to-market. En su pasado ha sido responsable de la calidad de e-voting solutions para gobiernos en todos los continentes.
 
 * Twitter: [@spiddy](https://twitter.com/spiddy)
 * GitHub: [@spiddy](https://github.com/spiddy)
