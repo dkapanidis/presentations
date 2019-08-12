@@ -18,6 +18,7 @@ The lists are ordered by the most recent to the oldest ones.
 
 | Date     | Presentation                                                                       | Meetup                    | Location         |
 | -------- | ---------------------------------------------------------------------------------- | ------------------------- | ---------------- |
+| 27/06/19 | [Enfoque holístico de DevOps - Todo está conectado!]  | [OpenTrends BCN Jun.19] | OpenTrends       |
 | 26/11/18 | [Enfoque holístico de DevOps - Todo está conectado!]  | [Docker BCN Nov.18] | Oracle       |
 | 19/07/18 | [Kubernetes in Startups vs Enterprise: Using Custom Resources to extend workflow]  | [Kubernetes BCN Jul.18] | CaixaForum       |
 | 21/05/18 | [Kubernetes Autoscaling using Custom Metrics]                                      | [Kubernetes BCN Mar.18] | 3scale           |
@@ -48,6 +49,7 @@ The lists are ordered by the most recent to the oldest ones.
 [Software Craftsmanship BCN 2014]: http://scbcn.github.io/
 [We node! 2014]: http://wenode.barcelonajs.org/speaker/dimitris-kapanidis.html
 
+[OpenTrends BCN Jun.19]: https://www.meetup.com/Opentrends-Barcelona/events/261832205/
 [Docker BCN Nov.18]: https://www.meetup.com/Kubernetes-Barcelona/events/256409093/
 [Kubernetes BCN Jul.18]: https://www.meetup.com/Kubernetes-Barcelona/events/252665047/
 [Kubernetes BCN Mar.18]: https://www.meetup.com/Kubernetes-Barcelona/events/247733129/
