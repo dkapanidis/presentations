@@ -18,6 +18,7 @@ The lists are ordered by the most recent to the oldest ones.
 
 | Date     | Presentation                                                                       | Meetup                    | Location         |
 | -------- | ---------------------------------------------------------------------------------- | ------------------------- | ---------------- |
+| 26/11/18 | [Enfoque holístico de DevOps - Todo está conectado!]  | [Docker BCN Nov.18] | Oracle       |
 | 19/07/18 | [Kubernetes in Startups vs Enterprise: Using Custom Resources to extend workflow]  | [Kubernetes BCN Jul.18] | CaixaForum       |
 | 21/05/18 | [Kubernetes Autoscaling using Custom Metrics]                                      | [Kubernetes BCN Mar.18] | 3scale           |
 | 26/09/16 | [Implementing Health Checks with Docker Swarm]                                     | [Docker BCN Sep.16]     | Everis           |
@@ -30,6 +31,7 @@ The lists are ordered by the most recent to the oldest ones.
 | 26/03/14 | [Introduction to Docker]                                                           | [Docker BCN Mar.14]     | 3scale           |
 
 
+[Enfoque holístico de DevOps - Todo está conectado!]: https://speakerdeck.com/spiddy/enfoque-holistico-de-devops
 [Netflix OSS and Kubernetes - Building a Microservice based Cloud platform]: https://speakerdeck.com/spiddy/netflix-oss-and-kubernetes-building-a-microservice-based-cloud-platform
 [Continuous Delivery of Node.js Apps with Docker from Scratch to Production]: https://speakerdeck.com/spiddy/the-quest-for-the-holy-grail-of-continuous-delivery
 [Kubernetes in Startups vs Enterprise: Using Custom Resources to extend workflow]: https://speakerdeck.com/spiddy/kubernetes-in-startups-vs-enterprise-using-custom-resources-to-extend-workflow
@@ -46,6 +48,7 @@ The lists are ordered by the most recent to the oldest ones.
 [Software Craftsmanship BCN 2014]: http://scbcn.github.io/
 [We node! 2014]: http://wenode.barcelonajs.org/speaker/dimitris-kapanidis.html
 
+[Docker BCN Nov.18]: https://www.meetup.com/Kubernetes-Barcelona/events/256409093/
 [Kubernetes BCN Jul.18]: https://www.meetup.com/Kubernetes-Barcelona/events/252665047/
 [Kubernetes BCN Mar.18]: https://www.meetup.com/Kubernetes-Barcelona/events/247733129/
 [Docker BCN Sep.16]: https://www.meetup.com/docker-barcelona-spain/events/233991943/
@@ -58,6 +61,8 @@ The lists are ordered by the most recent to the oldest ones.
 [Docker BCN Jul.14]: https://www.meetup.com/docker-barcelona-spain/events/193336922/
 
 ## Abstracts
+
+**[Enfoque holístico de DevOps - Todo está conectado!]**: La transición hacia una solución de microservicios con un modelo DevOps tiene muchos peligros! Y si no fuera suficiente también tenemos que dar soporte a producción mientras. En esta charla hablaremos sobre un enfoque de vista pájaro como podemos hacer esta transición sin perdernos en el camino.
 
 **[Kubernetes in Startups vs Enterprise: Using Custom Resources to extend workflow]**: Kubernetes and Containers are taking over the world and it seems that is they fit in every use-case from a small startup to big bank industries. But in reality every environment is unique with it´s own peculiarities. Kubernetes is not the end-game, it´s the platform for platforms. During this talk we´ll discuss about the differences between startups and enterprises and how we can fill the gap integrating inside Kubernetes our custom workflow using Custom Resources and Operators.
 
