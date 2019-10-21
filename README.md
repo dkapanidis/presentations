@@ -8,7 +8,7 @@ The lists are ordered by the most recent to the oldest ones.
 
 | Date     | Presentation                                                                            | Conference                         | Links                                                  |
 | -------- | --------------------------------------------------------------------------------------- | ---------------------------------  | ------------------------------------------------------ |
-| 11/10/18 | [Tame your Microservices with Helm and Software Release Trains]       | [Helm Summit 2019] | [YouTube](https://www.youtube.com/watch?v=xtT--AKDlxc)  |
+| 11/10/19 | [Tame your Microservices with Helm and Software Release Trains]       | [Helm Summit 2019] | [YouTube](https://www.youtube.com/watch?v=xtT--AKDlxc)  |
 | 30/09/18 | [Kubernetes in Startups vs Enterprise: Using Custom Resources to extend workflow]       | [Software Crafters Barcelona 2018] | [YouTube](https://www.youtube.com/watch?v=7FfWZ2RyZI)  |
 | 15/05/17 | [Zero Downtimes with Faulty Solutions - Health Checks for Microservies to the Rescue]() | [RigaDevDays 2016]                 | [YouTube](https://www.youtube.com/watch?v=7FfWZ2RyZI)  |
 | 18/06/16 | [Netflix OSS and Kubernetes - Building a Microservice based Cloud platform]             | [JBCNConf 2014]                    | [YouTube](https://www.youtube.com/watch?v=tcNf8Dk6VWg) |
@@ -19,6 +19,7 @@ The lists are ordered by the most recent to the oldest ones.
 
 | Date     | Presentation                                                                       | Meetup                    | Location         |
 | -------- | ---------------------------------------------------------------------------------- | ------------------------- | ---------------- |
+| 14/1/19 | [Tame your Microservices with Helm and Software Release Trains]       | [Kubernetes BCN Nov.19] | Bynder |
 | 27/06/19 | [Enfoque holístico de DevOps - Todo está conectado!]  | [OpenTrends BCN Jun.19] | OpenTrends       |
 | 26/11/18 | [Enfoque holístico de DevOps - Todo está conectado!]  | [Docker BCN Nov.18] | Oracle       |
 | 19/07/18 | [Kubernetes in Startups vs Enterprise: Using Custom Resources to extend workflow]  | [Kubernetes BCN Jul.18] | CaixaForum       |
@@ -52,6 +53,7 @@ The lists are ordered by the most recent to the oldest ones.
 [Software Craftsmanship BCN 2014]: http://scbcn.github.io/
 [We node! 2014]: http://wenode.barcelonajs.org/speaker/dimitris-kapanidis.html
 
+[Kubernetes BCN Nov.19]: https://www.meetup.com/Kubernetes-Barcelona/events/265833064/
 [OpenTrends BCN Jun.19]: https://www.meetup.com/Opentrends-Barcelona/events/261832205/
 [Docker BCN Nov.18]: https://www.meetup.com/Kubernetes-Barcelona/events/256409093/
 [Kubernetes BCN Jul.18]: https://www.meetup.com/Kubernetes-Barcelona/events/252665047/
