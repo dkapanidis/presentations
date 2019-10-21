@@ -8,6 +8,7 @@ The lists are ordered by the most recent to the oldest ones.
 
 | Date     | Presentation                                                                            | Conference                         | Links                                                  |
 | -------- | --------------------------------------------------------------------------------------- | ---------------------------------  | ------------------------------------------------------ |
+| 11/10/18 | [Tame your Microservices with Helm and Software Release Trains]       | [Helm Summit 2019] | [YouTube](https://www.youtube.com/watch?v=xtT--AKDlxc)  |
 | 30/09/18 | [Kubernetes in Startups vs Enterprise: Using Custom Resources to extend workflow]       | [Software Crafters Barcelona 2018] | [YouTube](https://www.youtube.com/watch?v=7FfWZ2RyZI)  |
 | 15/05/17 | [Zero Downtimes with Faulty Solutions - Health Checks for Microservies to the Rescue]() | [RigaDevDays 2016]                 | [YouTube](https://www.youtube.com/watch?v=7FfWZ2RyZI)  |
 | 18/06/16 | [Netflix OSS and Kubernetes - Building a Microservice based Cloud platform]             | [JBCNConf 2014]                    | [YouTube](https://www.youtube.com/watch?v=tcNf8Dk6VWg) |
@@ -32,6 +33,7 @@ The lists are ordered by the most recent to the oldest ones.
 | 26/03/14 | [Introduction to Docker]                                                           | [Docker BCN Mar.14]     | 3scale           |
 
 
+[Tame your Microservices with Helm and Software Release Trains]: https://speakerdeck.com/spiddy/tame-your-microservices-with-helm-and-software-release-trains
 [Enfoque holístico de DevOps - Todo está conectado!]: https://speakerdeck.com/spiddy/enfoque-holistico-de-devops
 [Netflix OSS and Kubernetes - Building a Microservice based Cloud platform]: https://speakerdeck.com/spiddy/netflix-oss-and-kubernetes-building-a-microservice-based-cloud-platform
 [Continuous Delivery of Node.js Apps with Docker from Scratch to Production]: https://speakerdeck.com/spiddy/the-quest-for-the-holy-grail-of-continuous-delivery
@@ -43,6 +45,7 @@ The lists are ordered by the most recent to the oldest ones.
 [The Quest for the Holy Grail of Continuous Delivery]: https://speakerdeck.com/spiddy/the-quest-for-the-holy-grail-of-continuous-delivery
 [Introduction to Docker]: http://www.slideshare.net/spiddy/docker-intro-32958279
 
+[Helm Summit 2019]: https://events19.linuxfoundation.org/events/helm-summit-2019/program/
 [Software Crafters Barcelona 2018]: http://scbcn.github.io/
 [RigaDevDays 2016]: https://rigadevdays.lv/speakers/44/
 [JBCNConf 2014]: http://www.jbcnconf.com/2016/infoSpeaker.html?ref=dkapanidis
@@ -63,6 +66,8 @@ The lists are ordered by the most recent to the oldest ones.
 [Docker BCN Jul.14]: https://www.meetup.com/docker-barcelona-spain/events/193336922/
 
 ## Abstracts
+
+**[Tame your Microservices with Helm and Software Release Trains]**: The deployment of apps in Kubernetes is simplified with the usage of Helm, but when it comes to deploying microservice architecture things can go a bit more wild as we have to manage multiple applications on potentially multiple environments. We'll discuss the different patterns for storing the charts on Git, either as mono or multi repos. We'll go through the ways to simplify and keep DRY our charts, and lastly we'll go review the different deployment patterns with Helm, either together as software release trains, or individually as with CI/CD.
 
 **[Enfoque holístico de DevOps - Todo está conectado!]**: La transición hacia una solución de microservicios con un modelo DevOps tiene muchos peligros! Y si no fuera suficiente también tenemos que dar soporte a producción mientras. En esta charla hablaremos sobre un enfoque de vista pájaro como podemos hacer esta transición sin perdernos en el camino.
 
