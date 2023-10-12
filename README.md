@@ -17,11 +17,12 @@ The lists are ordered by the most recent to the oldest ones.
 
 ## Meetups
 
-| Date     | Presentation                                                                       | Meetup                    | Location         |
-| -------- | ---------------------------------------------------------------------------------- | ------------------------- | ---------------- |
-| 14/1/19 | [Tame your Microservices with Helm and Software Release Trains]       | [Kubernetes BCN Nov.19] | Bynder |
-| 27/06/19 | [Enfoque holístico de DevOps - Todo está conectado!]  | [OpenTrends BCN Jun.19] | OpenTrends       |
-| 26/11/18 | [Enfoque holístico de DevOps - Todo está conectado!]  | [Docker BCN Nov.18] | Oracle       |
+| Date     | Presentation                                                                       | Meetup                  | Location         |
+| -------- | ---------------------------------------------------------------------------------- | ----------------------- | ---------------- |
+| 10/10/23 | [Cost Optimizations for PostgreSQL clusters running on Kubernetes]                 | [Cloud Native BCN Oct.23] | Wallapop       |
+| 14/1/19  | [Tame your Microservices with Helm and Software Release Trains]                    | [Kubernetes BCN Nov.19] | Bynder           |
+| 27/06/19 | [Enfoque holístico de DevOps - Todo está conectado!]                               | [OpenTrends BCN Jun.19] | OpenTrends       |
+| 26/11/18 | [Enfoque holístico de DevOps - Todo está conectado!]                               | [Docker BCN Nov.18]     | Oracle           |
 | 19/07/18 | [Kubernetes in Startups vs Enterprise: Using Custom Resources to extend workflow]  | [Kubernetes BCN Jul.18] | CaixaForum       |
 | 21/05/18 | [Kubernetes Autoscaling using Custom Metrics]                                      | [Kubernetes BCN Mar.18] | 3scale           |
 | 26/09/16 | [Implementing Health Checks with Docker Swarm]                                     | [Docker BCN Sep.16]     | Everis           |
@@ -53,6 +54,7 @@ The lists are ordered by the most recent to the oldest ones.
 [Software Craftsmanship BCN 2014]: http://scbcn.github.io/
 [We node! 2014]: http://wenode.barcelonajs.org/speaker/dimitris-kapanidis.html
 
+[Cloud Native BCN Oct.23]: https://www.meetup.com/cloud-native-bcn/events/296099926/
 [Kubernetes BCN Nov.19]: https://www.meetup.com/Kubernetes-Barcelona/events/265833064/
 [OpenTrends BCN Jun.19]: https://www.meetup.com/Opentrends-Barcelona/events/261832205/
 [Docker BCN Nov.18]: https://www.meetup.com/Kubernetes-Barcelona/events/256409093/
@@ -68,6 +70,9 @@ The lists are ordered by the most recent to the oldest ones.
 [Docker BCN Jul.14]: https://www.meetup.com/docker-barcelona-spain/events/193336922/
 
 ## Abstracts
+
+**[Cost Optimizations for PostgreSQL clusters running on Kubernetes]**: This is a lightning talk about cost optimizations (and subsequently more greener solutions) of PostgreSQL instances running on top of Kubernetes instances by measuring the actual CPU, memory and disk usage, and optimizing the resource requests and limits to the clusters, along with other tweeks such as enabling savings plans on AWS, switching to more newer and greener CPU types, autoscaling clusters, treating prod and non-prod differently and more.
+
 
 **[Tame your Microservices with Helm and Software Release Trains]**: The deployment of apps in Kubernetes is simplified with the usage of Helm, but when it comes to deploying microservice architecture things can go a bit more wild as we have to manage multiple applications on potentially multiple environments. We'll discuss the different patterns for storing the charts on Git, either as mono or multi repos. We'll go through the ways to simplify and keep DRY our charts, and lastly we'll go review the different deployment patterns with Helm, either together as software release trains, or individually as with CI/CD.
 
