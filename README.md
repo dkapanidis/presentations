@@ -34,7 +34,7 @@ The lists are ordered by the most recent to the oldest ones.
 | 24/06/14 | [Docker Workshop]                                                                  | [Docker BCN Jul.14]     | Itnig            |
 | 26/03/14 | [Introduction to Docker]                                                           | [Docker BCN Mar.14]     | 3scale           |
 
-
+[Cost Optimizations for PostgreSQL clusters running on Kubernetes]: https://docs.google.com/presentation/d/1v9zqOigktWiOdijccp2yOijRf0vvk6SlCfHeC9E1PA8/edit#slide=id.p
 [Tame your Microservices with Helm and Software Release Trains]: https://speakerdeck.com/spiddy/tame-your-microservices-with-helm-and-software-release-trains
 [Enfoque holístico de DevOps - Todo está conectado!]: https://speakerdeck.com/spiddy/enfoque-holistico-de-devops
 [Netflix OSS and Kubernetes - Building a Microservice based Cloud platform]: https://speakerdeck.com/spiddy/netflix-oss-and-kubernetes-building-a-microservice-based-cloud-platform
