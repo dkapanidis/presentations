@@ -17,22 +17,22 @@ The lists are ordered by the most recent to the oldest ones.
 
 ## Meetups
 
-| Date     | Presentation                                                                       | Meetup                  | Location         |
-| -------- | ---------------------------------------------------------------------------------- | ----------------------- | ---------------- |
-| 10/10/23 | [Cost Optimizations for PostgreSQL clusters running on Kubernetes]                 | [Cloud Native BCN Oct.23] | Wallapop       |
-| 14/1/19  | [Tame your Microservices with Helm and Software Release Trains]                    | [Kubernetes BCN Nov.19] | Bynder           |
-| 27/06/19 | [Enfoque holístico de DevOps - Todo está conectado!]                               | [OpenTrends BCN Jun.19] | OpenTrends       |
-| 26/11/18 | [Enfoque holístico de DevOps - Todo está conectado!]                               | [Docker BCN Nov.18]     | Oracle           |
-| 19/07/18 | [Kubernetes in Startups vs Enterprise: Using Custom Resources to extend workflow]  | [Kubernetes BCN Jul.18] | CaixaForum       |
-| 21/05/18 | [Kubernetes Autoscaling using Custom Metrics]                                      | [Kubernetes BCN Mar.18] | 3scale           |
-| 26/09/16 | [Implementing Health Checks with Docker Swarm]                                     | [Docker BCN Sep.16]     | Everis           |
-| 03/06/16 | [Docker Workshop]                                                                  | [Docker BCN Jun.16]     | Everis           |
-| 21/07/15 | [Docker in Production or how to serve 23M daily requests]                          | [Docker BCN Jul.15]     | Barcelona Activa |
-| 15/04/15 | [Docker Workshop]                                                                  | [Docker BCN Abr.15]     | Itnig            |
-| 17/02/15 | [The Quest for the Holy Grail of Continuous Delivery]                              | [Docker BCN Feb.15]     | Social Point     |
-| 18/12/14 | [Introduction to Docker]                                                           | [Docker BCN Dec.14]     | Itnig            |
-| 24/06/14 | [Docker Workshop]                                                                  | [Docker BCN Jul.14]     | Itnig            |
-| 26/03/14 | [Introduction to Docker]                                                           | [Docker BCN Mar.14]     | 3scale           |
+| Date     | Presentation                                                                       | Meetup                  | Location         | Links |
+| -------- | ---------------------------------------------------------------------------------- | ----------------------- | ---------------- | ----- |
+| 10/10/23 | [Cost Optimizations for PostgreSQL clusters running on Kubernetes]                 | [Cloud Native BCN Oct.23] | Wallapop       | [YouTube](https://www.youtube.com/watch?v=LKFJo9rCfTM) |
+| 14/1/19  | [Tame your Microservices with Helm and Software Release Trains]                    | [Kubernetes BCN Nov.19] | Bynder           | |
+| 27/06/19 | [Enfoque holístico de DevOps - Todo está conectado!]                               | [OpenTrends BCN Jun.19] | OpenTrends       | |
+| 26/11/18 | [Enfoque holístico de DevOps - Todo está conectado!]                               | [Docker BCN Nov.18]     | Oracle           | |
+| 19/07/18 | [Kubernetes in Startups vs Enterprise: Using Custom Resources to extend workflow]  | [Kubernetes BCN Jul.18] | CaixaForum       | |
+| 21/05/18 | [Kubernetes Autoscaling using Custom Metrics]                                      | [Kubernetes BCN Mar.18] | 3scale           | |
+| 26/09/16 | [Implementing Health Checks with Docker Swarm]                                     | [Docker BCN Sep.16]     | Everis           | |
+| 03/06/16 | [Docker Workshop]                                                                  | [Docker BCN Jun.16]     | Everis           | |
+| 21/07/15 | [Docker in Production or how to serve 23M daily requests]                          | [Docker BCN Jul.15]     | Barcelona Activa | |
+| 15/04/15 | [Docker Workshop]                                                                  | [Docker BCN Abr.15]     | Itnig            | |
+| 17/02/15 | [The Quest for the Holy Grail of Continuous Delivery]                              | [Docker BCN Feb.15]     | Social Point     | |
+| 18/12/14 | [Introduction to Docker]                                                           | [Docker BCN Dec.14]     | Itnig            | |
+| 24/06/14 | [Docker Workshop]                                                                  | [Docker BCN Jul.14]     | Itnig            | |
+| 26/03/14 | [Introduction to Docker]                                                           | [Docker BCN Mar.14]     | 3scale           | |
 
 [Cost Optimizations for PostgreSQL clusters running on Kubernetes]: https://docs.google.com/presentation/d/1v9zqOigktWiOdijccp2yOijRf0vvk6SlCfHeC9E1PA8/edit#slide=id.p
 [Tame your Microservices with Helm and Software Release Trains]: https://speakerdeck.com/spiddy/tame-your-microservices-with-helm-and-software-release-trains
