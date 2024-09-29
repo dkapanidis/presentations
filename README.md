@@ -19,6 +19,7 @@ The lists are ordered by the most recent to the oldest ones.
 
 | Date     | Presentation                                                                       | Meetup                  | Location         | Links |
 | -------- | ---------------------------------------------------------------------------------- | ----------------------- | ---------------- | ----- |
+| 18/09/24 | [The Rise of ARM64]                                                                | [Cloud Native BCN Sep.24] | InnoIT         | [YouTube](https://www.youtube.com/watch?v=8SnC9_Rgi5s) |
 | 10/10/23 | [Cost Optimizations for PostgreSQL clusters running on Kubernetes]                 | [Cloud Native BCN Oct.23] | Wallapop       | [YouTube](https://www.youtube.com/watch?v=LKFJo9rCfTM) |
 | 14/1/19  | [Tame your Microservices with Helm and Software Release Trains]                    | [Kubernetes BCN Nov.19] | Bynder           | |
 | 27/06/19 | [Enfoque holístico de DevOps - Todo está conectado!]                               | [OpenTrends BCN Jun.19] | OpenTrends       | |
@@ -34,6 +35,7 @@ The lists are ordered by the most recent to the oldest ones.
 | 24/06/14 | [Docker Workshop]                                                                  | [Docker BCN Jul.14]     | Itnig            | |
 | 26/03/14 | [Introduction to Docker]                                                           | [Docker BCN Mar.14]     | 3scale           | |
 
+[The Rise of ARM64]: https://docs.google.com/presentation/d/145h53ehp5rIQ2_fdUF3AzSfTzIak1hyNHJhKq4WQzTQ/edit?usp=drive_link
 [Cost Optimizations for PostgreSQL clusters running on Kubernetes]: https://docs.google.com/presentation/d/1v9zqOigktWiOdijccp2yOijRf0vvk6SlCfHeC9E1PA8/edit#slide=id.p
 [Tame your Microservices with Helm and Software Release Trains]: https://speakerdeck.com/spiddy/tame-your-microservices-with-helm-and-software-release-trains
 [Enfoque holístico de DevOps - Todo está conectado!]: https://speakerdeck.com/spiddy/enfoque-holistico-de-devops
@@ -54,6 +56,7 @@ The lists are ordered by the most recent to the oldest ones.
 [Software Craftsmanship BCN 2014]: http://scbcn.github.io/
 [We node! 2014]: http://wenode.barcelonajs.org/speaker/dimitris-kapanidis.html
 
+[Cloud Native BCN Sep.24]: https://www.meetup.com/cloud-native-bcn/events/302976115/
 [Cloud Native BCN Oct.23]: https://www.meetup.com/cloud-native-bcn/events/296099926/
 [Kubernetes BCN Nov.19]: https://www.meetup.com/Kubernetes-Barcelona/events/265833064/
 [OpenTrends BCN Jun.19]: https://www.meetup.com/Opentrends-Barcelona/events/261832205/
